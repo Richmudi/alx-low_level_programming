@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
-* main - this is the header of the program
-
-* Return - this is returned to zero
+/**
+* main -entry point
+*
+* Return: always 0 on success
 */
 
 int main(void)
