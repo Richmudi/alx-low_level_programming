@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 /**
-* main - Determines is a number id positive, negative and or zero.
+* main - Determines is a number id positive7, negative and or zero.
 *
 * Return: Always 0 (success)
 */
@@ -23,7 +23,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is negative\n", n);			
+		printf("%d is negaative\n", n);
 	}
 	return (0);
 }
