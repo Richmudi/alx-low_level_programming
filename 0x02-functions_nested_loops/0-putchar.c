@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* main - contains the header file
+* main - contains the main function
 * putchar - prints the alphabet putchar
 * Return: returns 0
 */
