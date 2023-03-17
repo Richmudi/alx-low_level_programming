@@ -37,6 +37,7 @@ int _strlen(char *s)
 		i++;
 	}
 	return (i);
+}
 /**
  * errors - handles errors for main
  */
