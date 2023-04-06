@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
 * insert_nodeint_at_index - Inserts new node in the linked list at a specified position
 * @head: The first node in the list
